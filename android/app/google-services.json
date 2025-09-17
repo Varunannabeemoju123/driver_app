@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "807130772509",
+    "firebase_url": "https://track-drive-web-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "track-drive-web",
+    "storage_bucket": "track-drive-web.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807130772509:android:d21b63626f42e6f59dc2f4",
+        "android_client_info": {
+          "package_name": "com.example.travelsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807130772509-f74avcl6ccak91c7bc3i3g5u0jq1tbi5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelsapp",
+            "certificate_hash": "25a9955a2163de1b138afa624d5508b6df7f452d"
+          }
+        },
+        {
+          "client_id": "807130772509-c0egcj6bq4k74jmpcqf5inboac6ce3c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUeTaO9BhiHy0_fbiF8XRFQ7Iwr7d7B48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807130772509-c0egcj6bq4k74jmpcqf5inboac6ce3c3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "807130772509-f5gpjhocu1j66ekbkdeinqhjo41ha0ga.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.travelsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
