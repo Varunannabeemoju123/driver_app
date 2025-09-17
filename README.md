@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # travels_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# driver_app
+>>>>>>> aec8b9e6eb69258f83ff8db533c1998d388d47af
